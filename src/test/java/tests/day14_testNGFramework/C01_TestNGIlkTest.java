@@ -14,6 +14,7 @@ public class C01_TestNGIlkTest {
     @Test (priority = 6)
     public void ilkTest(){
         System.out.println("ilk test çalisti");
+        System.out.println("deneme");
     }
 
     @Test (priority = 9)
@@ -25,6 +26,7 @@ public class C01_TestNGIlkTest {
     public void ucuncuTest(){
         System.out.println("ucuncu test çalisti");
     }
+
 
 
 }
